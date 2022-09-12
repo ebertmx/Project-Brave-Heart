@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "New_Library")(type "KiCad")(uri "${KIPRJMOD}/New_Library.kicad_sym")(options "")(descr "")(disabled))
+  (lib (name "pbh")(type "KiCad")(uri "${KIPRJMOD}/pbh.kicad_sym")(options "")(descr "")(disabled))
+  (lib (name "braveheart_custom")(type "KiCad")(uri "${KIPRJMOD}/braveheart_custom.kicad_sym")(options "")(descr ""))
+  (lib (name "ECE")(type "KiCad")(uri "B:/ebertm/OneDrive/my_files/UVIC/SUMMER_2022/ECE_299/Alarm_Clock/ECE Kicad Libraries/ECE.kicad_sym")(options "")(descr ""))
+)
