@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 48,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_nets": [],
@@ -70,19 +70,6 @@
     "version": 3
   },
   "project": {
-    "files": [
-      {
-        "name": "project_brave_heart.kicad_sch",
-        "open": false,
-        "window": {
-          "display": 0,
-          "maximized": true,
-          "pos_x": -8,
-          "pos_y": -8,
-          "size_x": 2576,
-          "size_y": 1416
-        }
-      }
-    ]
+    "files": []
   }
 }
